@@ -10,4 +10,4 @@ for 변수 in 리스트(또는 튜플, 문자열): #<-(인덱싱 가능한것들
 >     * range(x,y)-> x이상 y미만
 
 > * 리스트내포
->     * result = [num \times for num in a]
+>     * result = [num '*' for num in a]
